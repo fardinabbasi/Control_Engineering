@@ -1,0 +1,6 @@
+[submodule "Ball_and_Beam_Control_System"]
+	path = Ball_and_Beam_Control_System
+	url = https://github.com/fardinabbasi/Ball_and_Beam_Control_System
+[submodule "Magnetic_Levitation_Control_System"]
+	path = Magnetic_Levitation_Control_System
+	url = https://github.com/fardinabbasi/Electromagnetic_Levitation_Control_System
